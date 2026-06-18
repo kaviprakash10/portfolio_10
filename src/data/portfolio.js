@@ -70,7 +70,7 @@ export const educationEntries = [
   },
   {
     period: null,
-    badge: "HSLC · 70%",
+    badge: "HSLC · 62%",
     degree: "Higher Secondary",
     institution: "Hayagrivar Matric HR SEC School",
     location: "Palani",
@@ -78,7 +78,7 @@ export const educationEntries = [
   },
   {
     period: null,
-    badge: "SSLC · 65%",
+    badge: "SSLC · 78%",
     degree: "Secondary School",
     institution: "Triumph Academy Matriculation School",
     location: "Chatrapatti",
